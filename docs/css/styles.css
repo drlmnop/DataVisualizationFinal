@@ -1,13 +1,14 @@
 .title-bar{
-    background-color: #000000;
+    background-color: #33363b;
     padding: 10px 20px;
     height: 80px;
     color: white;
     text-align: center;
     font-family: sans-serif;
+    font-size: 40;
     font-weight: bold;
 }
 
 body{
-    background-color: #003800;
+    background-color: #49796B;
 }
