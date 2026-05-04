@@ -5,8 +5,9 @@
     color: white;
     text-align: center;
     font-family: sans-serif;
-    font-size: 40;
+    font-size: 40px;
     font-weight: bold;
+    align-items: center;
 }
 
 body{
